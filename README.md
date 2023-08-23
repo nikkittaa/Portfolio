@@ -24,6 +24,10 @@ Feel free to explore the different sections of my portfolio website at your leis
 ## Main File
 The home.html file is the main file of this site. Open this site in any web browser to visit the site.
 
+## Visit the site
+
+URL: https://nikitabhatia-portfolio-site.netlify.app
+
 ---
 
 Thank you for taking the time to explore my portfolio website. I hope you enjoy learning about my journey. If you have any questions or feedback, please don't hesitate to get in touch!
