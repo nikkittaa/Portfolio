@@ -1,0 +1,66 @@
+body{
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+#navbarNav{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav-item{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.navbar-brand{
+    font-family: 'Kaushan Script', cursive;
+    padding-left: 20px;
+    font-size:30px;
+    color: rgb(32, 101, 192);
+}
+
+.btn{
+    background-color:rgb(32, 101, 192) ;
+    color: white;
+    border-radius: 0%;
+}
+
+a:hover{
+    text-decoration: none;
+    color: rgb(32, 101, 192);
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
+h1{
+    font-family: 'Kaushan Script', cursive;
+}
+
+.containerskills{
+    display:flex;
+    justify-content:space-around;
+}
+
+.endtext{
+    font-family: 'Kaushan Script', cursive;
+    color: rgb(32, 101, 192);
+    font-size: 30px;
+}
+
+.profile-img{
+    border-radius:50%;
+    height: 200px;
+}
+
+.containercontact{
+    display:flex;
+    justify-content:space-evenly;
+}
+
+.cont{
+    text-decoration: none;
+    color: black;
+}
